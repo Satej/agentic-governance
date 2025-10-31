@@ -1,1 +1,1 @@
-# agentic-governance
+- Create a free Databricks account using this [link](https://login.databricks.com/signup?provider=DB_FREE_TIER).
